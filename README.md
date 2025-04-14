@@ -1,4 +1,4 @@
-# 📝 Today I Learned (TIL)
+# 📝 DaHye's Today I Learned (TIL)
 
 > 결국 우리가 쓰는 코드는 돌고 돈다
 
