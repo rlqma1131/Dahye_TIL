@@ -36,3 +36,6 @@
 - [2025-05-02] [Unity 게임 개발 입문 1주차 (4)](./2025-05-02.md)
 - --
 - [2025-05-07] [개인과제 - Metaverse 제작](./2025-05-07.md)
+- --
+- [2025-05-08] [팀 과제 - TeamProject - NPC.TopDownShooting (1)](./2025-05-08.md)
+- [2025-05-09] [팀 과제 - TeamProject - NPC.TopDownShooting (2)](./2025-05-09.md)
