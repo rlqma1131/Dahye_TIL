@@ -41,3 +41,5 @@
 - [2025-05-09] [팀 과제 - TeamProject - NPC.TopDownShooting (2)](./2025-05-09.md)
 - [2025-05-12] [팀 과제 - TeamProject - NPC.TopDownShooting (3)](./2025-05-12.md)
 - [2025-05-15] [팀 과제 - TeamProject - NPC.TopDownShooting (4)](./2025-05-15.md)
+- --
+- [2025-05-16] [Unity 게임 개발 숙련 1주차 (1)](./2025-05-16.md)
