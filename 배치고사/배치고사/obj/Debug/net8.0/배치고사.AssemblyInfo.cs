@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("배치고사")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e3642724e79a45d089e5de8cc3623a62313c03d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ee43d5acc1427e4ad4c26592fdd8fab5df2efe9")]
 [assembly: System.Reflection.AssemblyProductAttribute("배치고사")]
 [assembly: System.Reflection.AssemblyTitleAttribute("배치고사")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
