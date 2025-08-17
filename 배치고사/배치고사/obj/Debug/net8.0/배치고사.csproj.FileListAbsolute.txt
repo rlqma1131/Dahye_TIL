@@ -1,5 +1,0 @@
-D:\Git\Sparta_Git\Dahye_git\배치고사\배치고사\obj\Debug\net8.0\배치고사.GeneratedMSBuildEditorConfig.editorconfig
-D:\Git\Sparta_Git\Dahye_git\배치고사\배치고사\obj\Debug\net8.0\배치고사.AssemblyInfoInputs.cache
-D:\Git\Sparta_Git\Dahye_git\배치고사\배치고사\obj\Debug\net8.0\배치고사.AssemblyInfo.cs
-D:\Git\Sparta_Git\Dahye_git\배치고사\배치고사\obj\Debug\net8.0\배치고사.csproj.CoreCompileInputs.cache
-D:\Git\Sparta_Git\Dahye_git\배치고사\배치고사\obj\Debug\net8.0\배치고사.sourcelink.json
